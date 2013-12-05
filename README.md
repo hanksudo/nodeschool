@@ -16,5 +16,5 @@ $ npm install -g levelmeup
 $ learnyounode
 $ learnyounode list
 $ learnyounode run program.js
-$ learnyounode verify program.jss
+$ learnyounode verify program.js
 ```
