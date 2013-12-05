@@ -60,7 +60,7 @@
     "sub": false,
     "trailing": false,
     "indent": 4,
-    "white": true,
+    "white": false,
 
     "maxparams": 5,
     "maxdepth": 3,
