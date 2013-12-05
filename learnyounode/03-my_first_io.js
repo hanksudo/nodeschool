@@ -1,3 +1,5 @@
+'use strict';
+
 // My first I/O
 var fs = require('fs');
 var file = process.argv[2];

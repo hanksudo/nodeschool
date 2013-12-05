@@ -1,3 +1,5 @@
+'use strict';
+
 // juggline async
 var http = require('http');
 var urls = process.argv.slice(2);
@@ -23,7 +25,7 @@ var request = function(url, idx, cb) {
 urls.forEach(function(url) {
     request(url, i, function() {
         finished++;
-        if (finished == urls.length) {
+        if (finished === urls.length) {
             console.log(body.join('\n'));
         }
     });

@@ -1,3 +1,5 @@
+'use strict';
+
 // http client
 var http = require('http');
 

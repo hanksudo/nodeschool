@@ -1,3 +1,5 @@
+'use strict';
+
 // time server
 var net = require('net');
 var moment = require('moment');

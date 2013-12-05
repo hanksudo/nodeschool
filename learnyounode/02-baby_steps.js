@@ -1,3 +1,5 @@
+'use strict';
+
 // Baby Steps
 var arr = process.argv.slice(2);
 var sum = 0;

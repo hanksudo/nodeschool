@@ -1,7 +1,9 @@
+'use strict';
+
 // My first async I/O
 var fs = require('fs');
 var file = process.argv[2];
 
 fs.readFile(file, function(err, data) {
-    console.log(data.toString().split('\n').length - 1)
+    console.log(data.toString().split('\n').length - 1);
 });

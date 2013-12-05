@@ -1,3 +1,5 @@
+'use strict';
+
 // http collect
 var http = require('http');
 
