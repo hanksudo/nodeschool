@@ -1,4 +1,4 @@
-My http://nodeschool.io/ solutions
+My http://nodeschool.io/ practice solutions
 
 # Installation
 
@@ -8,6 +8,7 @@ Requred '[NodeJS](http://nodejs.org)' installed.
 $ npm install -g learnyounode
 $ npm install -g stream-adventure
 $ npm install -g levelmeup
+$ npm install -g expressworks
 ```
 
 # Run
